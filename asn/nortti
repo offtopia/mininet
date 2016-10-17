@@ -1,0 +1,7 @@
+asn: 4212343004
+tech-c:
+  - juhani.haverinen@gmail.com
+
+networks:
+  ipv4:
+    - 10.254.4.0/24
