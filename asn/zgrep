@@ -1,0 +1,7 @@
+asn: 4212343006
+tech-c:
+  - gzipgrep@gmail.com
+
+networks:
+  ipv4:
+    - 10.254.6.0/24
