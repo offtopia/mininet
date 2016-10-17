@@ -1,0 +1,7 @@
+asn: 4212343002
+tech-c:
+  - cashchasm@gmail.com
+
+networks:
+  ipv4:
+    - 10.254.2.0/24
