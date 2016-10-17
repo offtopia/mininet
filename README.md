@@ -3,6 +3,8 @@
 
 For now:
 
+Our ASN range is 4212343000 through [TBD].
+
 - `/asn` contains the ASNs that have been given out. This is in the format as described on https://github.com/freifunk/icvpn-meta/blob/master/README.md - the tools are at https://github.com/freifunk/icvpn-scripts
 
 TODO: NIH
