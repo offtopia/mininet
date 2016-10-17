@@ -1,0 +1,7 @@
+asn: 4212343003
+tech-c:
+  - nanovad@gmail.com
+
+networks:
+  ipv4:
+    - 10.254.3.0/24
