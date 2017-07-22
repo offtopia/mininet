@@ -1,0 +1,7 @@
+asn: 4212343007
+tech-c:
+  - puck@puckipedia.com
+
+networks:
+  ipv4:
+    - 10.254.7.0/24
