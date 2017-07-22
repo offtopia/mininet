@@ -1,0 +1,7 @@
+asn: 4212343008
+# tech-c:
+# - none
+
+networks:
+  ipv4:
+    - 10.254.8.0/24
